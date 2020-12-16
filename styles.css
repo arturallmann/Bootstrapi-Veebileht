@@ -1,0 +1,78 @@
+body {
+    background-color:  #1e252b;
+    color: #7998aa;
+}
+#navbar {
+    display: block;
+    background-color: #29323a;
+    border: black 1px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    display: block;
+    width: 100%;
+}
+#searchbar {
+    float: right;
+}
+#logoriba {
+    color: black;
+    margin-top: 56px;
+    background-color: #1e252b;
+}
+#sisuriba {
+    padding: 2px;
+}
+#vasaktulp div {
+    background-color: #263138;
+    border-radius: 7px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+#vasaktulp h4 {
+    padding-top: 5px;
+}
+.pilt {
+    width: 100%;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+.avalehtuudised {
+    text-align: center;
+    background-color: #1e252b;
+}
+.avalehtuudised div {
+   background-color: #263138;
+   border-radius: 7px;
+   margin-bottom: 15px;
+   padding-bottom: 5px;
+}
+.avalehtuudised p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.avalehtuudised h3 {
+    padding-top: 15px;
+}
+#paremtulp div {
+    background-color: #263138;
+    border-radius: 7px;  
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+#paremtulp h4 {
+    padding-top: 5px;
+}
+.maailmaseisud{
+    background-color: #1e252b;
+}
+.tiimikaart {
+    background-color: #29323a;
+}
+#footer {
+    background-color: #1e252b;
+}
