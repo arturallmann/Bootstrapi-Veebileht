@@ -46,11 +46,9 @@ body {
     padding-bottom: 5px;
     min-width: 60%;
 }
+
 .avalehtuudised {
     text-align: center;
-    background-color: #1e252b;
-}
-.avalehtuudised div {
    background-color: #263138;
    border-radius: 7px;
    margin-bottom: 15px;
