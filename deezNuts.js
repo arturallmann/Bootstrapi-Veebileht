@@ -1,4 +1,4 @@
 let r = false
-console.error('lol troll')
+let r = true
 if (!r) {
   console.log('dn')
