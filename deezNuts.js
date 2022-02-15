@@ -1,4 +1,4 @@
-let r = false
-let r = true
-if (!r) {
+let f =  false
+if (!f) {
   console.log('dn')
+}
